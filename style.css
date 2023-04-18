@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+header{
+    background-color: black;
+    position: absolute;
+    height: 10%;
+    width: 99%;
+}    
+.nav{
+    position: absolute;
+    height: 3%;
+    width: 70%;
+    margin-top: 1.5%;
+    margin-left: 1.50%
+}
+.nav a{
+    color: blue;
+    font-size: larger;
+    padding: 30px;
+}
+.nav a:hover {
+    background-color: white;
+}
+.nav1{
+    height: 60%;
+    width: 9%;
+    margin-top: 1%;
+    margin-left: 70%;
+}
